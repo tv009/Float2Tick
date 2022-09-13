@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/github/Float2Tick/app/src/main/res/drawable/circle_bg_white.xml" value="0.2995" />
+        <entry key="..\:/github/Float2Tick/app/src/main/res/drawable/up_circle_bg_white.xml" value="0.1" />
+        <entry key="..\:/github/Float2Tick/app/src/main/res/layout/activity_main.xml" value="0.3494791666666667" />
+        <entry key="..\:/github/Float2Tick/app/src/main/res/layout/float_time_big.xml" value="0.2390625" />
+        <entry key="..\:/github/Float2Tick/app/src/main/res/layout/image_display.xml" value="0.3494791666666667" />
+        <entry key="..\:/github/Float2Tick/app/src/main/res/layout/video_display.xml" value="0.2390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
